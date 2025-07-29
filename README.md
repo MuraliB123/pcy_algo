@@ -2,7 +2,8 @@
 
 **PCY‑Algo** is an efficient, lightweight Python implementation of the **PCY (Park–Chen–Yu)** algorithm for **association rule mining**.
 
-![PyPI - Version]([https://img.shields.io/pypi/v/pcy-algo](https://pypi.org/project/pcy-algo/))
+![PyPI - Version](https://img.shields.io/pypi/v/pcy-algo)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pcy-algo)
 ![License](https://img.shields.io/pypi/l/pcy-algo)
 
 ---
