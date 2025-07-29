@@ -23,7 +23,7 @@ Install the latest stable version via PyPI:
 
 ```bash
 pip install pcy-algo
-
+```
 ```bash
 from pcy_algo import pcy_algo
 
@@ -47,7 +47,7 @@ basket = pcy_algo(num_transactions, unique_items, bucket_size, support, confiden
 result = basket.mine_data()
 
 print(result)
-
+```
 # Usage Overview
 - num_transactions: A list of baskets, where each basket is a list of item IDs (integers).
 
